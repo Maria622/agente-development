@@ -2,7 +2,7 @@ pipeline {
    
     agent{
         
-          label 'java && dev'
+          label 'java && test'
         
     }
     stages {
